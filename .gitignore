@@ -9,3 +9,5 @@ analysis/*png
 analysis/*html
 analysis/*_cache
 analysis/site_libs
+data/HOSDATA
+data/diagnosis_desc.csv
